@@ -3,8 +3,6 @@ Oi, eu sou a Jenifer (ela/dela). 👋
 - 💻 Estudante de Sistemas de Informação - Universidade de São Paulo 
 - 🚀 Patinadora nas horas vagas
 
-- https://www.linkedin.com/in/jenifer-galvao/
-
 
 <div>
   <a href="https://beacons.ai/jenifergm">
@@ -14,17 +12,17 @@ Oi, eu sou a Jenifer (ela/dela). 👋
 
 ##
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Jenifer-HTML" heigth="30" width="35" margin="0 100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
-  <img align="center" alt="Jenifer-CSS" heigth="30" width="35" margin="0 100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
-  <img align="center" alt="Jenifer-Js" heigth="30" width="35" margin="0 100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jenifer-C" heigth="30" width="35" margin="0 100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
-  <img align="center" alt="Jenifer-Java" heigth="30" width="35" margin="0 100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+<div>
+  <a href="https://github.com/TomazHaddad">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TomazHaddad&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomazHaddad&layout=compact&langs_count=16&theme=synthwave"/>
 </div>
-  
-  <div>
-     <a href="https://www.linkedin.com/in/jenifer-galvao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </div>
+<div>
+  <a href="https://www.linkedin.com/in/jenifer-galvao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
+ <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+</div>
 
           
        
