@@ -1,27 +1,17 @@
-Oi, eu sou a Jenifer (ela/dela). 👋
-
-- 💻 Estudante de Sistemas de Informação - Universidade de São Paulo 
-- 🚀 Patinadora nas horas vagas
-
-
+<div align="center">
+  <h1> Oi! Eu sou a Jenifer 👋 </h1>
 <div>
-  <a href="https://beacons.ai/jenifergm">
-  <img width= "50%" height="200" src="https://github-readme-stats.vercel.app/api?username=jenifergm&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img width="50%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenifergm&layout=compact&langs_count=16&theme=radical"/>
-</div>
 
-##
+<img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenifergm&layout=compact&theme=radical&count_private=true" />
+<img width="370" src="https://github-readme-stats.vercel.app/api?username=jenifergm&show_icons=true&theme=radical&count_private=true" />
 
-<div>
-  <a href="https://www.linkedin.com/in/jenifer-galvao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </div>
-  
- <div style="display: inline_block"><br>
-  <img align="center" alt="Jenifer-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Jenifer-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Jenifer-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Jenifer-C" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-</div>
+<h2 align="left">👩‍💻. Tecnologias</h2>
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=java,c,html,css" />
+</p>
 
-          
-       
+###
+<h2 align="left"> 📰. Me conheça </h2>
+<p align="left">- Cursando Bacharelado em Sistemas da Informação - Universidade de São Paulo (USP)
+<br>- Aprendendo desenvolvimento web com foco em backend com Java
+<br>- Patinadora nas horas vagas </p>
